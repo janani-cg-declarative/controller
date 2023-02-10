@@ -1,0 +1,4 @@
+variables:
+- team: janani-cg-declarative
+- admin-user: janani-gowtham-admin
+- manager-user: janani-gowtham
